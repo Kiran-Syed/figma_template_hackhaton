@@ -27,9 +27,9 @@ export default function Outlets() {
 
           </div>
 
-          <button className="bg-gray-200 py-[10px] w-[120px] h-9 my-1.5 text-xs md:mt-16 hover:bg-black hover:text-white ">
-              View collection
-            </button>
+          <button className="bg-gray-200 py-[10px] w-[120px] h-9 my-1.5 text-xs lg:mt-16 hover:bg-black hover:text-white">
+             Get in touch
+          </button>
 
         </div>
 

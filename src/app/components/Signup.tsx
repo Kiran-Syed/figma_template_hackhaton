@@ -1,7 +1,7 @@
 export default function Signup() {
   return (
     <section>
-      <div className="w-full sm:bg-gray-200 mt-10 h-max flex flex-col justify-center items-center md:p-10">
+      <div className="w-full sm:bg-gray-100 mt-10 h-max flex flex-col justify-center items-center md:p-10">
 
         <div className="w-[95%] md:w-[85%] mx-auto bg-white p-8">
 
