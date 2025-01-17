@@ -15,6 +15,7 @@ export default function Footer() {
       <Popularproduct />
       <Signup />
       <Outlets/>
+      
     </>
   );
 }
