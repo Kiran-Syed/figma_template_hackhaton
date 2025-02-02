@@ -32,7 +32,7 @@ export default function Productlist() {
 
        {/* =============== 1st card set ============== */}
 
-        <div className="w-[90%] sm:w-[85%] h-max flex gap-4 sm:gap-4 flex-wrap m-auto mt-[35px]">
+        <div className="w-[90%] sm:w-[85%] h-max flex gap-4 sm:gap-4 flex-wrap m-auto mt-[35px] justify-around">
 
           {/* ============ CARD 1 =========== */}
 
@@ -105,7 +105,7 @@ export default function Productlist() {
 
         {/* =============== 2nd card set ============== */}
 
-        <div className="w-[90%] sm:w-[85%] h-max flex gap-4 sm:gap-4 flex-wrap m-auto mt-[35px]">
+        <div className="w-[90%] sm:w-[85%] h-max flex gap-4 sm:gap-4 flex-wrap m-auto mt-[35px] justify-around">
           
           {/* ============ CARD 1 =========== */}
 
@@ -178,7 +178,7 @@ export default function Productlist() {
 
         {/* ==============  3nd card set ============ */}
 
-        <div className="w-[90%] sm:w-[85%] h-max flex gap-4 sm:gap-4 flex-wrap m-auto mt-[35px]">
+        <div className="w-[90%] sm:w-[85%] h-max flex gap-4 sm:gap-4 flex-wrap m-auto mt-[35px] justify-around">
           
           {/* ============ CARD 1 =========== */}
 

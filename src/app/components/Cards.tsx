@@ -8,7 +8,7 @@ export default function Cards() {
           New ceramics
         </h1>
 
-        <div className="w-[90%] sm:w-[85%] h-max flex gap-4 sm:gap-4 flex-wrap m-auto mt-[22px]">
+        <div className="w-[90%] sm:w-[85%] h-max flex gap-4 sm:gap-4 flex-wrap m-auto justify-around mt-[22px]">
           {/* ============ CARD 1 =========== */}
 
           <div className="w-[126px] sm:w-[23%] h-max font-sans">
